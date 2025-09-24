@@ -5,9 +5,6 @@
 # 💫 About Me:
 <br>📊 Passionate about exploring data to find meaningful insights.<br><br>💻 Learning Python, SQL, R, and data visualization tools.<br><br>📈 Interested in AI, big data, and statistical modeling.<br><br>🌱 Currently improving my skills in machine learning and data analytics projects.<br>
 
-# 📏 My Project:
-[![Kodular].(https://creator.kodular.io/#5647952937746432)
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amira-nur-1824ab386/) 
 
